@@ -24,7 +24,7 @@
         <quarkus.version>2.2.2.Final</quarkus.version>
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <exec-plugin.version>3.0.0</exec-plugin.version>
-        <amqp-client.version>5.13.0</amqp-client.version>
+        <amqp-client.version>5.13.1</amqp-client.version>
         <testcontainers.version>1.15.3</testcontainers.version>
     </properties>
 
