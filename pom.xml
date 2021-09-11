@@ -25,7 +25,7 @@
         <compiler-plugin.version>3.8.1</compiler-plugin.version>
         <exec-plugin.version>3.0.0</exec-plugin.version>
         <amqp-client.version>5.13.0</amqp-client.version>
-        <testcontainers.version>1.15.3</testcontainers.version>
+        <testcontainers.version>1.16.0</testcontainers.version>
     </properties>
 
     <modules>
